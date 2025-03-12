@@ -37,7 +37,18 @@ Column Name	       	Description
 🔹 This dataset helps analyze social media trends, audience engagement, and platform-specific performance for data science & marketing research! 🚀
 
 Technology Used
-Programming Language - Python
+The code is tested against Python .4, 3.5, 3.6 and 3.7.
+
+
+**Problem Statement: **
+Understanding the key metrics influencing the Social Media Content trends and users engagement across different platforms to get insights of the content creators and marketers.
+
+
+Installation
+
+If you are using pip:
+pip install wordcloud
+
 
 
 
