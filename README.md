@@ -23,16 +23,16 @@ This file contains 5,000 records of viral social media posts across TikTok, Inst
 •	🏷️ Column Descriptions
 
 Column Name	       	Description
-- Post_ID	         Unique identifier for each social media post
-- Platform	        	Social media platform (TikTok, Instagram, Twitter, YouTube)
-- Hashtag	         Trending hashtag associated with the post
-- Content_Type	    	Type of content (Reel, Video, Post, Shorts, Tweet, etc.)
-- Region	            Country where the post gained traction
-- Views	            Total number of views received
-- Likes	           	Number of likes on the post ❤️
-- Shares	            Number of times the post was shared 🔄
-- Comments	         Number of comments on the post 💬
-- Engagement_Level	Engagement classification: Low, Medium, or High 📊
+- Post_ID	         - Unique identifier for each social media post
+- Platform	        	- Social media platform (TikTok, Instagram, Twitter, YouTube)
+- Hashtag	         - Trending hashtag associated with the post
+- Content_Type	    	- Type of content (Reel, Video, Post, Shorts, Tweet, etc.)
+- Region	            - Country where the post gained traction
+- Views	            - Total number of views received
+- Likes	           	- Number of likes on the post ❤️
+- Shares	            - Number of times the post was shared 🔄
+- Comments	         - Number of comments on the post 💬
+- Engagement_Level	- Engagement classification: Low, Medium, or High 📊
 
 🔹 This dataset helps analyze social media trends, audience engagement, and platform-specific performance for data science & marketing research! 🚀
 
